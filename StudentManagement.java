@@ -21,7 +21,7 @@ public class StudentManagement {
         Scanner sc = new Scanner(System.in);
         ArrayList<Student> list = new ArrayList();
         while (true) {
-            System.out.println("\n--- BCA Student System ---");
+            System.out.println("\n--- All Student System ---");
             System.out.println("1. Add Student");
             System.out.println("2. View All Students");
             System.out.println("3. Exit");
